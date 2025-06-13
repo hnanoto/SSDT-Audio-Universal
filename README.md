@@ -17,6 +17,18 @@ substituindo o uso de DeviceProperties no config.plist.
 🎯 Dica: Use o Hackintool ou IORegistryExplorer para verificar se a injeção foi aplicada.
 
 Criado por: Hackintosh and Beyond
+
+
+
+
+https://github.com/user-attachments/assets/7bcab094-e7a9-4baa-8d4a-6ed8e916a9af)
+
+
+https://github.com/user-attachments/assets/46e252e8-3fb9-4392-ba57-2fb3fb4f1183)
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📘 SSDT-Audio - Universal Template for AppleALC
