@@ -49,3 +49,8 @@ replacing the need for DeviceProperties in the config.plist.
 🎯 Tip: Use Hackintool or IORegistryExplorer to verify if the injection was applied.
 
 Created by: Hackintosh and Beyond
+
+https://github.com/user-attachments/assets/b0aefde7-3dcb-4d14-be25-3294de856e44)
+https://github.com/user-attachments/assets/0bfdbdb6-37c2-4a3f-a875-0d6034a5532c)
+
+
