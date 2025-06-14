@@ -21,10 +21,10 @@ Criado por: Hackintosh and Beyond
 
 
 
-https://github.com/user-attachments/assets/7bcab094-e7a9-4baa-8d4a-6ed8e916a9af)
+https://github.com/user-attachments/assets/7bcab094-e7a9-4baa-8d4a-6ed8e916a9af
 
 
-https://github.com/user-attachments/assets/46e252e8-3fb9-4392-ba57-2fb3fb4f1183)
+https://github.com/user-attachments/assets/46e252e8-3fb9-4392-ba57-2fb3fb4f1183
 
 
 
@@ -50,7 +50,7 @@ replacing the need for DeviceProperties in the config.plist.
 
 Created by: Hackintosh and Beyond
 
-https://github.com/user-attachments/assets/b0aefde7-3dcb-4d14-be25-3294de856e44)
-https://github.com/user-attachments/assets/0bfdbdb6-37c2-4a3f-a875-0d6034a5532c)
+https://github.com/user-attachments/assets/b0aefde7-3dcb-4d14-be25-3294de856e44
+https://github.com/user-attachments/assets/0bfdbdb6-37c2-4a3f-a875-0d6034a5532c
 
 
