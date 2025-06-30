@@ -5,7 +5,7 @@
 	<key>Comment</key>
 	<string>Remove _DSM from HDEF (Audio)</string>
 	<key>Find</key>
-	<data>FF9EU00=</data>
+	<data>A354534D=</data>
 	<key>Replace</key>
 	<data></data>
 	<key>TgtBridge</key>
