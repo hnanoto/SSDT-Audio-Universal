@@ -53,3 +53,6 @@ This SSDT injects the audio `layout-id` directly via ACPI, replacing the need fo
 ---
 
 Created by: Hackintosh and Beyond
+
+## License
+This project is licensed under the [MIT License](LICENSE).
