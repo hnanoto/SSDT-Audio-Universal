@@ -1,0 +1,12 @@
+<dict>
+    <key>Comment</key>
+    <string>Remove _DSM from HDEF (Audio)</string>
+    <key>Find</key>
+    <data>FF9EU00=</data> <!-- hex: 14 5F 44 53 4D -->
+    <key>Replace</key>
+    <data></data>
+    <key>TgtBridge</key>
+    <string></string>
+    <key>TgtAddr</key>
+    <string>_SB.PCI0.HDEF</string>
+</dict>
