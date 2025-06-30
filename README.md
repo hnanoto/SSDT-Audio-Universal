@@ -52,4 +52,10 @@ This SSDT injects the audio `layout-id` directly via ACPI, replacing the need fo
 
 ---
 
+### Infographics
+![Infográfico (PT)](Hackintosh_FAQ_Audio_Complete_Pack/FAQ_PT_Infografico.png)
+![Infographic (EN)](Hackintosh_FAQ_Audio_Complete_Pack/FAQ_EN_Infographic.png)
+
+---
+
 Created by: Hackintosh and Beyond
