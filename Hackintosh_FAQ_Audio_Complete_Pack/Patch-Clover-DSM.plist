@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>Comment</key>
+		<string>Remove _DSM from HDEF (Audio)</string>
+		<key>Find</key>
+		<data>o1RTTQ==</data>
+		<key>Replace</key>
+		<data></data>
+		<key>TgtBridge</key>
+		<string></string>
+		<key>TgtAddr</key>
+		<string>_SB.PCI0.HDEF</string>
+	</dict>
+</dict>
+</plist>
