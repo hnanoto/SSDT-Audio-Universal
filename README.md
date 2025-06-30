@@ -50,6 +50,13 @@ This SSDT injects the audio `layout-id` directly via ACPI, replacing the need fo
 
 🎯 Tip: Use Hackintool or IORegistryExplorer to verify if the injection was applied.
 
+## 📚 FAQ & Additional Resources
+
+For a deeper look at audio injection on Clover versus OpenCore, check out the
+[Hackintosh Audio Injection FAQ Pack](./Hackintosh_FAQ_Audio_Complete_Pack).
+It contains FAQs in English and Portuguese, example ACPI patches and an
+SSDT configured for `layout-id` 13.
+
 ---
 
 ### Infographics
